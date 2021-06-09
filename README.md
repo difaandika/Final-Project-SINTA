@@ -120,7 +120,7 @@ How To Use This App
 4. Take picture or get image from galery
 5. App will inform the sign 
 <br>
-You can follow this [Demo](https://example.com)_
+You can follow this [Demo](https://example.com)
 
 
 
