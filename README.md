@@ -10,19 +10,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">SINTA - Sign Board Translator</h3>
 
   <p align="center">
-    Final Project SINTA Bangkit
+    SignBoard Translator [ Bangkit Capstone Project ] 2021
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/difaandika/Final-Project-SINTA.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/difaandika/Final-Project-SINTA.git">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/difaandika/Final-Project-SINTA.git">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/difaandika/Final-Project-SINTA.git">Request Feature</a>
   </p>
 </p>
 
