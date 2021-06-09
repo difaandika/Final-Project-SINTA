@@ -68,7 +68,7 @@
     <tr>
         <td>
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-          <img src="images/4.PNG" alt="Logo" width="350" height="400">
+          <img src="images/4.PNG" alt="Logo" width="350" height="500">
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         </td>
         <td>
