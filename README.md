@@ -68,27 +68,27 @@
     <tr>
         <td>
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-          <img src="images/4.PNG" alt="Logo" width="350" height="430">
+          <img src="images/4.PNG" alt="Logo" width="350" height="400">
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         </td>
         <td>
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-          <img src="images/5.PNG" alt="Logo" width="350" height="430">
+          <img src="images/5.PNG" alt="Logo" width="350" height="400">
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       </td>
       <td>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="images/3.PNG" alt="Logo" width="350" height="430">
+        <img src="images/3.PNG" alt="Logo" width="350" height="400">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       </td>
       <td>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="images/6.PNG" alt="Logo" width="350" height="430">
+        <img src="images/6.PNG" alt="Logo" width="350" height="400">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       </td>
      <td>
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-          <img src="images/2.PNG" alt="Logo" width="350" height="430">
+          <img src="images/2.PNG" alt="Logo" width="350" height="400">
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         </td>
     </tr>
