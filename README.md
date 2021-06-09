@@ -145,11 +145,6 @@ Submit a Pull request so that we can review your changes
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 
 
 <!-- CONTACT -->
