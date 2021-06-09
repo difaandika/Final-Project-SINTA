@@ -95,8 +95,31 @@
 </table>
 
 Traffic signs are important things for road users, but sign explanations and guidance are still lacking especially for foreign people or tourists. Many foreign tourists do not understand and get confused about the sign, resulting in breaking the rules or getting into some accidents. Using machine learning and signboard datasets that exists in Indonesia, we are trying to improve the tourism accessibility and making tourists understand and appreciate more about the sign throughout the street. We are trying to combine image classification in machine learning, cloud computing and mobile development to make an apps that can translate the photo of sign board that taken before. We hope from this idea, it can help many tourists from foreign countries to have a comfortable living in Indonesia.
+<br>
+Detection of 21 classes:
 
-
+1. Be careful, construction project ahead
+2. Be careful of landslides from the side
+3. There is dead end ahead
+4. It is prohibited to give voice signal
+5. It is prohibited to enter this area
+6. Stop before passing through the toll gate
+7. There is church ahead
+8. Be careful and slow down
+9. Be careful, the area is prone to earthquakes
+10. Be careful, the area is prone to volcano eruption
+11. Be careful, the area is prone to tsunami
+12. Prohibited for pedestrians
+13. Prohibited for bicycle users
+14. Prohibited for motorcyle and car users
+15. Prohibited for car users
+16. Prohibited for motorcyle users
+17. There is mosque ahead
+18. There is temple for hindu people ahead
+19. Be careful, the area is prone to accidents
+20. There is hospital ahead
+21. There is monastery for budhist people ahead
+22. 
 ### Built With
 
 * [Flutter](https://flutter.dev/)
@@ -119,7 +142,6 @@ To get a local copy up and running follow these simple example steps.
 
 1. Download the APK here [Here](https://drive.google.com/drive/folders/1tgjpaiEPH3_YicK0TX00RcQ1-9RRwMiI?usp=sharing)
 2. Install to your android device
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
