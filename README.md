@@ -18,7 +18,7 @@
     <a href="https://github.com/difaandika/Final-Project-SINTA"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/difaandika/Final-Project-SINTA">View Demo</a>
+    <a href="https://youtu.be/yMtv7RY4Khg">View Demo</a>
     ·
     <a href="https://github.com/difaandika/Final-Project-SINTA">Report Bug</a>
     ·
@@ -59,24 +59,36 @@
 
 <table>
     <tr>
-        <td><strong>     Splash Screen          </strong></td>
-        <td><strong>  Top Layout     </strong></td>
-      <td> <strong>      Bottom Layout</strong> </td>
+        <td><strong>     Login Page          </strong></td>
+        <td><strong>  Signup Page     </strong></td>
+      <td> <strong>      Home Page</strong> </td>
+      <td> <strong>      Scan Sign Page</strong> </td>
+      <td> <strong>      Emergency Call Page</strong> </td>
     </tr>
     <tr>
         <td>
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-          <img src="images/splashscreen.png" alt="Logo" width="350" height="546.5">
+          <img src="images/4.png" alt="Logo" width="350" height="546.5">
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
         </td>
         <td>
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-          <img src="images/top_layout.png" alt="Logo" width="350" height="546.5">
+          <img src="images/5.png" alt="Logo" width="350" height="546.5">
           <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       </td>
       <td>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="images/bottom_layout_crop.png" alt="Logo" width="350" height="546.5">
+        <img src="images/3.png" alt="Logo" width="350" height="546.5">
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+      <td>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <img src="images/6.png" alt="Logo" width="350" height="546.5">
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+      </td>
+      td>
+        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <img src="images/2.png" alt="Logo" width="350" height="546.5">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       </td>
     </tr>
