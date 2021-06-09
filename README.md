@@ -92,6 +92,8 @@ Traffic signs are important things for road users, but sign explanations and gui
 * [Flutter](https://flutter.dev/)
 * [Tensorflow](https://www.tensorflow.org/)
 * [Firebase](https://firebase.google.com/)
+* [Vscode](https://code.visualstudio.com/)
+* [Google Cloud Platform](https://cloud.google.com/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -154,11 +156,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Andi Isal - [LinkedIn](https://www.linkedin.com/in/difa-andika) 
+Andi Isal - [LinkedIn](https://www.linkedin.com/in/andi-isal-525367207/) 
 Ardis Firdais - [LinkedIn](https://www.linkedin.com/in/difa-andika) 
 Difa Andika - [LinkedIn](https://www.linkedin.com/in/difa-andika) 
-Diana Kartika Novia Pratiwi - [LinkedIn](https://www.linkedin.com/in/difa-andika) 
-Felix Gerald Saragi Sitio - [LinkedIn](https://www.linkedin.com/in/difa-andika) 
+Diana Kartika Novia Pratiwi - [LinkedIn](https://www.linkedin.com/in/diana-kartika-novia-pratiwi-157829178) 
+Felix Gerald Saragi Sitio - [LinkedIn](https://www.linkedin.com/in/felix-gerald-saragi-sitio-397392153/) 
 Gilang purwana - [LinkedIn](https://www.linkedin.com/in/difa-andika) 
 
 
