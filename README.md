@@ -118,11 +118,9 @@ How To Use This App
 2. SignIn or SignUp 
 3. Click scan image icon
 4. Take picture or get image from galery
-5. App will inform the sign 
+5. App will inform the meaning of sign 
 <br>
-You can follow this [Demo](https://example.com)
-
-
+You can follow this [Demo](https://youtu.be/yMtv7RY4Khg)
 
 
 <!-- CONTRIBUTING -->
@@ -134,24 +132,15 @@ Contributions are what make the open source community such an amazing place to b
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+5. Open a Pull Request so that we can review your changes <br>
 In general, we follow the "fork-and-pull" Git workflow.
-
-Fork the repo on GitHub
-Clone the project to your own machine
-Commit changes to your own branch
-Push your work back up to your fork
-Submit a Pull request so that we can review your changes
-NOTE: Be sure to merge the latest from "upstream" before making a pull request!
-
-
 
 
 <!-- CONTACT -->
 ## Contact
 
 Andi Isal - [LinkedIn](https://www.linkedin.com/in/andi-isal-525367207/) <br>
-Ardis Firdais - [LinkedIn](https://www.linkedin.com/in/difa-andika) <br>
+Ardis Firdais - [LinkedIn](https://www.linkedin.com/in/ardisfirdais) <br>
 Difa Andika - [LinkedIn](https://www.linkedin.com/in/difa-andika) <br>
 Diana Kartika Novia Pratiwi - [LinkedIn](https://www.linkedin.com/in/diana-kartika-novia-pratiwi-157829178) <br>
 Felix Gerald Saragi Sitio - [LinkedIn](https://www.linkedin.com/in/felix-gerald-saragi-sitio-397392153/) <br>
