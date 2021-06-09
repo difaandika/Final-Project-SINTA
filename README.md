@@ -86,11 +86,7 @@
         <img src="images/6.png" alt="Logo" width="350" height="546.5">
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       </td>
-      td>
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <img src="images/2.png" alt="Logo" width="350" height="546.5">
-        <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-      </td>
+     
     </tr>
 </table>
 
