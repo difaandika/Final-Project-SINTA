@@ -119,7 +119,7 @@ Detection of 21 classes:
 19. Be careful, the area is prone to accidents
 20. There is hospital ahead
 21. There is monastery for budhist people ahead
-22. 
+
 ### Built With
 
 * [Flutter](https://flutter.dev/)
